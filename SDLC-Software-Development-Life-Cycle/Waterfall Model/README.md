@@ -14,9 +14,12 @@ The Waterfall model is a traditional and sequential approach to software develop
   
   **5. Deployment**: Once the software has passed all the testing phases and is considered stable, it is deployed to the production environment or delivered to the client. This phase involves installing the software on the target system and making it available for end-users.
   
-  **6. Maintenance**: The maintenance phase involves ongoing support and maintenance of the software. Bug fixes, updates, enhancements, and other modifications are made to ensure the software remains functional and meets evolving user needs.
+  **6. Maintenance**: The maintenance phase involves ongoing support and maintenance of the software. Bug fixes, updates, enhancements, and other modifications are made
+to ensure the software remains functional and meets evolving user needs.
 
-Key characteristics of the Waterfall model include:
+**Key characteristics of the Waterfall model include**:
+
+![Waterfall - key characteristics](https://github.com/fayzdeveloper/Tutorials/assets/46987677/1df7d0cd-938d-473d-89dc-ed4ef42fb988)
 
   **1. Sequential and Linear**: The model follows a step-by-step progression from one phase to the next, and each phase is completed before moving on to the next one.
   
