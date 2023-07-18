@@ -1,2 +1,3 @@
 # SDLC-Models
-Different models of Software Development Life Cycle
+
+This repository includes different types of Software Development Life Cycle models
