@@ -3,7 +3,7 @@
 
 Welcome to the "Free Software Tutorials: Unlocking the Power of Code" repository! Here, you will find a treasure trove of free, public tutorials covering various aspects of software development. Whether you're a beginner looking to embark on your coding journey or an experienced developer seeking to expand your skill set, this repository is your go-to resource.
 
-Our tutorials cover a wide range of topics, including programming languages (Java, Python, JavaScript, C++, and more), web development (HTML, CSS, front-end frameworks), back-end development (Node.js, databases), software engineering principles, algorithm design, data structures, version control (Git), and much more.
+Our tutorials cover a wide range of topics, including java programming(will update more topics) , web development (HTML, CSS, front-end frameworks), back-end development (Node.js, databases), software engineering principles, algorithm design, data structures, version control (Git), and much more.
 
 Each tutorial is designed to be accessible and user-friendly, providing step-by-step instructions, code examples, and hands-on exercises. We believe in learning by doing, so expect interactive elements that allow you to apply your newfound knowledge in practical scenarios.
 
