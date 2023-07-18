@@ -1,8 +1,12 @@
 **Agile Methodology**
 
+![Agile - Main](https://github.com/fayzdeveloper/Tutorials/assets/46987677/eaf4ff1e-0a96-4a23-bf10-511b8660bc8f)
+
 Agile methodology is an iterative and collaborative approach to software development that prioritizes adaptability, customer satisfaction, and continuous improvement. It emphasizes flexibility, frequent feedback, and the ability to respond to changing requirements and business needs. 
 
 Here are some key characteristics and principles of Agile methodology:
+
+![Agile- Characteristics](https://github.com/fayzdeveloper/Tutorials/assets/46987677/12f201e1-5725-4a7d-8791-310d9b9bdac4)
 
 **1. Iterative and Incremental Development**: Agile projects are divided into small iterations or sprints, typically lasting a few weeks. Each iteration includes all the necessary steps of the Software Development Life Cycle (SDLC) – requirements gathering, design, development, testing, and deployment – resulting in a potentially shippable product increment at the end of each iteration.
 
