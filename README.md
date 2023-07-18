@@ -32,3 +32,4 @@ Key characteristics of the Waterfall model include:
 4. Rigidity: It is challenging to accommodate changes once a phase is completed, as the model assumes requirements are fixed at the beginning.
 
 The Waterfall model has been criticized for its lack of flexibility and limited customer engagement. However, it can still be suitable for projects with well-defined requirements and stable technology. Many modern software development approaches, such as Agile methodologies, have emerged as alternatives to the Waterfall model, providing more flexibility and adaptability in today's dynamic development landscape.
+
