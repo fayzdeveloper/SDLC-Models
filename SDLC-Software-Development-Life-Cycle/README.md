@@ -1,5 +1,7 @@
 **SDLC - Software Development Life Cycle**
 
+![Phases of SDLC -NEW](https://github.com/fayzdeveloper/Tutorials/assets/46987677/02ad72f7-85b7-4440-be0b-7c269e3c63d7)
+
 SDLC (Software Development Life Cycle) refers to the process of developing software applications, from initial planning and requirements gathering to maintenance and support. It provides a structured approach to ensure the successful delivery of high-quality software. 
 
 SDLC encompasses a set of distinct phases and activities that guide the development and delivery of software applications. 
@@ -32,6 +34,8 @@ _These characteristics of the SDLC contribute to a systematic and well-managed a
 
 **Phases of SDLC**
 
+![Phases 2](https://github.com/fayzdeveloper/Tutorials/assets/46987677/f69d3faa-e076-43e1-bda7-d0a89024bb3c)
+
 The Software Development Life Cycle (SDLC) consists of several distinct phases that guide the development and delivery of software applications. While the exact number and names of the phases may vary depending on the chosen SDLC model, _here are the commonly recognized phases_:
 
 **1. Requirements Gathering**: In this phase, project stakeholders collaborate to elicit, analyze, and document the software requirements. This involves understanding the needs of end-users, business objectives, functional and non-functional requirements, and any constraints or specifications.
@@ -54,6 +58,8 @@ Overall, the SDLC phases provide a structured approach to software development, 
 
 
 Different SDLC models exist, each with its own set of phases and characteristics. Let's explore some of the commonly used SDLC models:
+
+![Different SDLC Models](https://github.com/fayzdeveloper/Tutorials/assets/46987677/dee9187f-27d4-4ca0-b005-c0694b9c37d1)
 
 **1. Waterfall Model**: The Waterfall model follows a linear and sequential approach, with each phase (requirements, design, implementation, testing, deployment, and maintenance) completed before moving to the next. It is suitable for projects with well-defined and stable requirements but lacks flexibility for accommodating changes later in the process.
 
