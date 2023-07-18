@@ -19,7 +19,7 @@ to ensure the software remains functional and meets evolving user needs.
 
 **Key characteristics of the Waterfall model include**:
 
-![Waterfall - key characteristics](https://github.com/fayzdeveloper/Tutorials/assets/46987677/1df7d0cd-938d-473d-89dc-ed4ef42fb988)
+![Waterfall - key characteristics](https://github.com/fayzdeveloper/Tutorials/assets/46987677/f836adcd-d981-4b74-8eed-9969eeeef503)
 
   **1. Sequential and Linear**: The model follows a step-by-step progression from one phase to the next, and each phase is completed before moving on to the next one.
   
